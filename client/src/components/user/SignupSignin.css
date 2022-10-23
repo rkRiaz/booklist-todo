@@ -1,0 +1,14 @@
+.signup{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    height: 95vh;
+}
+.signup__box {
+    box-shadow: var(--darkShadow);
+    max-width: 600px;
+}
+.signup__text{
+    cursor: pointer;
+    font-weight: 600;
+}
